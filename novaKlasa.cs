@@ -8,7 +8,7 @@ namespace ConsoleApp3
 {
     class novaKlasa
     {
-        static void Metoda()
+        static void MetodaPrazna()
         {
 
         }
